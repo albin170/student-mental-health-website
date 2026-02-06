@@ -1,0 +1,4 @@
+function selectMood(mood) {
+document.getElementById("moodResult").innerText =
+"You are feeling: " + mood + " 💙";
+}
